@@ -1,0 +1,35 @@
+h1 {
+  font-family: "Sriracha", cursive;
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+  width: 100px;
+  height: 200px;
+  background-color: black;
+  border: 5px white solid;
+}
+
+#first {
+  background-color: #040403;
+}
+
+#second {
+  background-color: #e01a4f;
+}
+
+#third {
+  background-color: #507dbc;
+}
+
+#fourth {
+  background-color: #ffe900;
+}
+
+#fifth {
+  background-color: #71f79f;
+}
